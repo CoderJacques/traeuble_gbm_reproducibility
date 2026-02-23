@@ -1,0 +1,2 @@
+"mofa_result_name","factor_set","coverage_par","types","coverage_plot","p_value_plot","max_pathways_plot","enrichment_plot","top_features_plot","pathway_selection"
+"v31_norecurr_bulkhvg_MOFA","1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",0.2,"AC.like,Astrocyte,bulk_5000hvg_counts_symbols,CD4.CD8,DC,E.MDSCs,Endothelial,M.MDSCs,Mast,MES.like,Mono,Mural.cell,Neuron,NPC.like,Oligodendrocyte,OPC,OPC.like,TAM.BDM,TAM.MG",0.5,0.05,8,"positive",0.125,""

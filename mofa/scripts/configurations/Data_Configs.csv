@@ -1,0 +1,4 @@
+parameter,value
+data_path,/mnt/custom-file-systems/efs/fs-0d3b03a3638d516f0_fsap-05c6d9e300aefa0e9/projects/mofa/mofa_workflow/input_data_mosaic/
+result_path,/mnt/custom-file-systems/efs/fs-0d3b03a3638d516f0_fsap-05c6d9e300aefa0e9/projects/mofa/mofa_workflow/results_mosaic/
+configuration_name,v31_norecurr_bulkhvg

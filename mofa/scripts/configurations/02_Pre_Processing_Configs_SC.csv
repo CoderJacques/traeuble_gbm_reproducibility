@@ -1,0 +1,2 @@
+configuration_name,data_name,data_type,cell_type_exclusion,cell_expr_thres1,cell_expr_thres2
+v31_norecurr_bulkhvg,sc_mosaic_rounded_embeds_NOuncert_subclusters_mofa,h5ad,"RG,Plasma B,B cell,Neutrophil,TRAIL+ Astrocytes",1;1,5;2
