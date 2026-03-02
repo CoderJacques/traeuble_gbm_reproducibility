@@ -63,9 +63,11 @@ If you use this code or data in your research, please cite our paper:
 @article{Traeuble2026,
   title={Spatially Integrated Multi-Omics reveals the Multicellular Landscape of Progenitor-Driven Glioblastoma Progression},
   author={Traeuble, Korbinian and Traeuble, Jakob and MOSAIC consortium and Kaminski Schierle, Gabriele S and Heinig, Matthias},
-  journal={bioRxiv},
   year={2026},
+  doi = {10.64898/2026.02.26.708154},
   publisher={Cold Spring Harbor Laboratory}
+  URL = {https://www.biorxiv.org/content/early/2026/02/28/2026.02.26.708154},
+  journal={bioRxiv},
 }
 ```
 
