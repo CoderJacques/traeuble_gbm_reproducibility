@@ -1,6 +1,6 @@
 # GBM Multi-Omics Analysis Pipeline
 
-This repository contains the code for the analysis in our paper (link to preprint/paper will follow). It contains a collection of Jupyter notebooks and scripts for the multi-omics analysis of Glioblastoma (GBM). The analysis integrates various data types, including single-cell RNA-seq, spatial transcriptomics (Visium), whole-exome sequencing (WES), and clinical data, primarily using MOFA+ (Multi-Omics Factor Analysis v2).
+This repository contains the code for the analysis in our [paper](https://www.biorxiv.org/content/10.64898/2026.02.26.708154v1). It contains a collection of Jupyter notebooks and scripts for the multi-omics analysis of Glioblastoma (GBM). The analysis integrates various data types, including single-cell RNA-seq, spatial transcriptomics (Visium), whole-exome sequencing (WES), and clinical data, primarily using MOFA+ (Multi-Omics Factor Analysis v2).
 
 ## Installation
 
@@ -60,12 +60,12 @@ This directory contains the core MOFA+ pipeline scripts.
 If you use this code or data in your research, please cite our paper:
 
 ```bibtex
-@article{your_article,
-  title={Your Article Title},
-  author={Author, First and Author, Second},
-  journal={Journal Name},
-  year={2024},
-  publisher={Publisher}
+@article{Traeuble2026,
+  title={Spatially Integrated Multi-Omics reveals the Multicellular Landscape of Progenitor-Driven Glioblastoma Progression},
+  author={Traeuble, Korbinian and Traeuble, Jakob and MOSAIC consortium and Kaminski Schierle, Gabriele S and Heinig, Matthias},
+  journal={bioRxiv},
+  year={2026},
+  publisher={Cold Spring Harbor Laboratory}
 }
 ```
 
