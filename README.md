@@ -38,7 +38,7 @@ conda activate mofa_analysis_new
 
 ### MOFA Pipeline (`mofa/`)
 
-This directory contains the core MOFA+ pipeline scripts.
+This directory contains the core MOFA+ pipeline scripts cloned and slightly modified from https://github.com/heiniglab/mofa_workflow.
 
 -   **`mofa/scripts/`**: Contains Jupyter notebooks and R/Python scripts that constitute the steps of the MOFA pipeline.
     -   `00_Configuration_Update.ipynb`: Updates configuration files.
